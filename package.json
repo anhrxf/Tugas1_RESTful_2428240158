@@ -1,0 +1,25 @@
+{
+  "name": "tugas1_restful_2428240158",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": { "start": "node app.js", "dev": "nodemon app.js" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhrxf/Tugas1_RESTful_2428240158.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anhrxf/Tugas1_RESTful_2428240158/issues"
+  },
+  "homepage": "https://github.com/anhrxf/Tugas1_RESTful_2428240158#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
