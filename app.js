@@ -53,7 +53,7 @@ let nextId = 4;
 app.get("/", (req, res) => {
   res.json({
     nama: "M. Fadhil Anhar",
-    nim: "ISI_NIM_ANDA",
+    npm: "2428240158",
     topik: "34 - Streaming: Serial TV",
     endpoints: [
       { method: "GET", path: "/tv-series", fungsi: "Ambil semua data" },
